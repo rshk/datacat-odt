@@ -15,6 +15,6 @@ Readers
 * [todo] ``tn_entilocali``: reader for the software empowering `entilocali.opencontent.it`_
 
 
-.. statistica.provincia.tn.it: http://www.statistica.provincia.tn.it/
-.. territorio.provincia.tn.it: http://www.territorio.provincia.tn.it/
-.. entilocali.opencontent.it: http://entilocali.opencontent.it/
+.. _statistica.provincia.tn.it: http://www.statistica.provincia.tn.it/
+.. _territorio.provincia.tn.it: http://www.territorio.provincia.tn.it/
+.. _entilocali.opencontent.it: http://entilocali.opencontent.it/

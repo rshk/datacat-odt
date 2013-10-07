@@ -1,0 +1,3 @@
+from datacat_odt.pat_geocatalogo import PatGeocatalogoReader
+from datacat_odt.pat_statistica import PatStatisticaReader
+from datacat_odt.tn_entilocali import TrentoEntiLocaliReader
