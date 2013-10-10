@@ -32,6 +32,7 @@ entry_points = {
     'datacat.plugins.readers': [
         'pat_geocatalogo = datacat_odt:PatGeocatalogoReader',
         'pat_statistica = datacat_odt:PatStatisticaReader',
+        'pat_statistica_subpro = datacat_odt:PatStatisticaSubproReader',
         'tn_entilocali = datacat_odt:TrentoEntiLocaliReader',
     ],
 }
