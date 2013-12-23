@@ -18,3 +18,9 @@ Readers
 .. _statistica.provincia.tn.it: http://www.statistica.provincia.tn.it/
 .. _territorio.provincia.tn.it: http://www.territorio.provincia.tn.it/
 .. _entilocali.opencontent.it: http://entilocali.opencontent.it/
+
+
+.. image:: https://d2weczhvl823v0.cloudfront.net/rshk/datacat-odt/trend.png
+   :alt: Bitdeli badge
+   :target: https://bitdeli.com/free
+
